@@ -458,13 +458,13 @@ const linksList = [
     price: '$120.90'
   },
   {
-    title: 'Nike sneakers',
+    title: 'Nike sneakers 2',
     qty: '1',
     image: imageTwo,
     price: '$120.90'
   },
   {
-    title: 'Nike sneakers',
+    title: 'Nike sneakers 3',
     qty: '1',
     image: imageThree,
     price: '$120.90'
